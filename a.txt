@@ -1,7 +1,0 @@
-u - untracked 
-a = added
-
-m = modified
-
-
-lskdafjlka;
